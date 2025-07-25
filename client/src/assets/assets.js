@@ -40,6 +40,10 @@ import car_image1 from "./car_image1.png"
 import car_image2 from "./car_image2.png"
 import car_image3 from "./car_image3.png"
 import car_image4 from "./car_image4.png"
+import car_image5 from "./new_car_1.jpg"
+import car_image6 from "./new_car_2.jpg"
+import car_image7 from "./new_car_3.jpg"
+import car_image8 from "./new_car_4.jpg"
 
 export const cityList = ['New York', 'Los Angeles', 'Houston', 'Chicago']
 
@@ -85,7 +89,11 @@ export const assets = {
     user_profile,
     car_image2,
     car_image3,
-    car_image4
+    car_image4,
+    car_image5,
+    car_image6,
+    car_image7,
+    car_image8
 }
 
 export const menuLinks = [
@@ -115,7 +123,7 @@ export const dummyCarData = [
         "owner": "67fe3467ed8a8fe17d0ba6e2",
         "brand": "BMW",
         "model": "X5",
-        "image": car_image1,
+        "image": car_image4,
         "year": 2006,
         "category": "SUV",
         "seating_capacity": 4,
@@ -132,7 +140,7 @@ export const dummyCarData = [
         "owner": "67fe3467ed8a8fe17d0ba6e2",
         "brand": "Toyota",
         "model": "Corolla",
-        "image": car_image2,
+        "image": car_image6,
         "year": 2021,
         "category": "Sedan",
         "seating_capacity": 4,
@@ -149,7 +157,7 @@ export const dummyCarData = [
         "owner": "67fe3467ed8a8fe17d0ba6e2",
         "brand": "Jeep ",
         "model": "Wrangler",
-        "image": car_image3,
+        "image": car_image7,
         "year": 2023,
         "category": "SUV",
         "seating_capacity": 4,
@@ -166,7 +174,7 @@ export const dummyCarData = [
         "owner": "67fe3467ed8a8fe17d0ba6e2",
         "brand": "Ford",
         "model": "Neo 6",
-        "image": car_image4,
+        "image": car_image8,
         "year": 2022,
         "category": "Sedan",
         "seating_capacity": 2,
